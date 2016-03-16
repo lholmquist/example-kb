@@ -24,7 +24,7 @@ configured the application, click on the Installation tab and download the keycl
 
 # setup keycloak
 
-![Alt kc](https://github.com/helio-frota/ppsmc/raw/master/keycloakserver.png)
+![Alt kc](https://github.com/bucharest-gold/example-kb/raw/master/keycloak-server.png)
 
 # setup app
 
@@ -40,3 +40,5 @@ npm start
  ```
 
 Go to [http://localhost:3000](http://localhost:3000)
+
+(This app was generated with express-generator)
